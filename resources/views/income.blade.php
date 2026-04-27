@@ -1,4 +1,7 @@
 @extends('layouts.app')
+@extends('adminlte::page')
+
+@section('title', 'Income')
 
 @section('content')
     <h1>Income Management</h1>
